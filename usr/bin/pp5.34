@@ -1,8 +1,0 @@
-#!/usr/bin/perl5.34
-
-use strict;
-use warnings;
-use pp;
-
-pp->go();
-
