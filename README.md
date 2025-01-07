@@ -5,7 +5,7 @@ Before running the service, ensure you have the following installed:
 	•	Java 1.8+
 	•	cURL or a similar HTTP client (optional for testing API)**
 How to Run the Web UI Service 
-1. Download the Project Files: Clone or download this repository to your local machine.
+1. Download the Project Files: Clone or download the dev-br repository to your local machine.
 2. Navigate to the Executable JAR Folder: cd management-service-api/target
  ===============Usage=============
 Run the JAR File
