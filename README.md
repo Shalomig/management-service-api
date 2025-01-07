@@ -15,8 +15,8 @@ Run the JAR File
 	1.	Open a terminal.
 	2.	Use the following command to run the service: java -jar management-service-1.0-SNAPSHOT.jar
        Base URL:   http://localhost:1988/api/books ======
-       Call the base url below to confirm that the endpoint is working. Then proceed to run the web ui.
-       Note: Enure the management service is up and running before you run the web ui service. Both services must be running .
+       Call the base url below on the web to confirm that the endpoint is working. Then proceed to run the web ui jar.
+       Note: Enure the management service is up and running before you run the web ui service jar. Both services must be running .
 
        
  
