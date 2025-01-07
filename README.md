@@ -4,12 +4,9 @@ The Book Catalog API Service provides a backend implementation for managing book
 Before running the service, ensure you have the following installed:
 	•	Java 1.8+
 	•	cURL or a similar HTTP client (optional for testing API)**
-
-Download the Executable JAR File
-
-You can download the pre-built JAR file directly from the executable-jar directory in the repository:
-	1.	Navigate to the executable-jar folder in the GitHub UI; https://github.com/Shalomig/management-service-api/blob/dev-br/target/management-service-1.0-SNAPSHOT.jar
-	2.	Download the JAR file to your local machine.
+How to Run the Web UI Service 
+1. Download the Project Files: Clone or download this repository to your local machine.
+2. Navigate to the Executable JAR Folder: cd management-service-api/target
  ===============Usage=============
 Run the JAR File
 	1.	Open a terminal.
